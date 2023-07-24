@@ -1,0 +1,30 @@
+body {
+  background-color: #f1f1f1 !important;
+}
+
+.registration {
+  margin: 1rem;
+}
+
+.registration .title {
+  text-align: center;
+}
+.mb-3 {
+  text-align: start !important;
+}
+.label-form{
+  text-align: start !important;
+  width: 100%;
+  display: flex !important;
+}
+
+.registration .subtitle {
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+.registration form {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
